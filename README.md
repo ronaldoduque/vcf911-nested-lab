@@ -118,7 +118,7 @@ Com ~470 GB de RAM provisionada sobre 256 GB físicos (`TierNvmePct = 120`), ~22
 
 ## Autor
 
-[SEU NOME] · [LINK DO LINKEDIN]
+Ronaldo Duque · https://www.linkedin.com/in/ronaldo-duque-64135a17/
 
 Desenvolvido com apoio de IA como copiloto para a automação, a análise de logs e o troubleshooting. Arquitetura, decisões e validação são minhas.
 
