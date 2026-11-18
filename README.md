@@ -1,5 +1,7 @@
 # VCF 9.1.1 Nested Lab: deploy automatizado em um único servidor
 
+![Arquitetura](docs/arquitetura.png)
+
 Automação em PowerShell/PowerCLI e shell para implantar um **VMware Cloud Foundation 9.1.1** completo, 100% aninhado, em um único servidor físico com ESXi 8.0 U3. Do ESXi físico aos 4 hosts ESX 9.1.1 com vSAN, NSX, VCF Operations e VCF Management Services.
 
 > Projeto de homelab, para estudo. Vários ajustes aqui (CPU fora de suporte, Memory Tiering em tech preview, vSAN FTT=0, appliances com menos memória) **não são suportados** em produção.
